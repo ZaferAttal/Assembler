@@ -1,0 +1,6 @@
+
+
+addi $s5,$s6,99
+
+assemble
+
